@@ -16,8 +16,8 @@
 - [Awesome-FL](https://github.com/youngfish42/Awesome-FL) [![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-FL.svg?color=orange)](https://github.com/youngfish42/Awesome-FL/stargazers)
     - 全面、及时的联邦学习学术信息（论文、框架、数据集、教程、研讨会）
 
-- [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)  ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social)
+- [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) [![Stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning.svg?color=orange)](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning/stargazers)
     - 该存储库旨在持续跟踪联邦学习的最新研究进展，包括但不限于研究论文、书籍、代码、教程和视频。
 
-- [Practicing-Federated-Learning](https://github.com/FederatedAI/Practicing-Federated-Learning)  ![GitHub stars](https://img.shields.io/github/stars/FederatedAI/Practicing-Federated-Learning?style=social)
+- [Practicing-Federated-Learning](https://github.com/FederatedAI/Practicing-Federated-Learning)  [![Stars](https://img.shields.io/github/stars/FederatedAI/Practicing-Federated-Learning.svg?color=orange)](https://github.com/FederatedAI/Practicing-Federated-Learning/stargazers)
     - 本项目将长期维护和更新《联邦学习实战》书籍对应的章节代码。
